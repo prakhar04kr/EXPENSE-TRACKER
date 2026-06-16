@@ -1,7 +1,0 @@
-services:
-- type: web
-  name: first-expense-tracker
-  env: docker
-  healthCheckPath: /
-  autoDeploy: false
-
